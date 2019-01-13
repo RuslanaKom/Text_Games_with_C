@@ -1,0 +1,50 @@
+﻿Textbox3,Priklausomybe1,Textbox8,Grupes_pavadinimas2,Textbox4,Textbox7,Tipo_pavadinimas1,Textbox6,Textbox5
+3649,Valstybinė,212,Aukštoji mokykla,45,27,Kolegija,23,13
+3649,Savivaldybės,2184,Aukštoji mokykla,45,-,Kolegija,23,-
+3649,Nevalstybinė,1261,Aukštoji mokykla,45,18,Kolegija,23,10
+3649,Valstybinė,212,Aukštoji mokykla,45,27,Universitetas,22,14
+3649,Savivaldybės,2184,Aukštoji mokykla,45,-,Universitetas,22,-
+3649,Nevalstybinė,1261,Aukštoji mokykla,45,18,Universitetas,22,8
+3649,Valstybinė,212,Bendrojo ugdymo mokykla,1178,31,Gimnazija,399,20
+3649,Savivaldybės,2184,Bendrojo ugdymo mokykla,1178,1101,Gimnazija,399,359
+3649,Nevalstybinė,1261,Bendrojo ugdymo mokykla,1178,46,Gimnazija,399,20
+3649,Valstybinė,212,Bendrojo ugdymo mokykla,1178,31,Pagrindinė mokykla,500,11
+3649,Savivaldybės,2184,Bendrojo ugdymo mokykla,1178,1101,Pagrindinė mokykla,500,480
+3649,Nevalstybinė,1261,Bendrojo ugdymo mokykla,1178,46,Pagrindinė mokykla,500,9
+3649,Valstybinė,212,Bendrojo ugdymo mokykla,1178,31,Pradinė mokykla,165,-
+3649,Savivaldybės,2184,Bendrojo ugdymo mokykla,1178,1101,Pradinė mokykla,165,151
+3649,Nevalstybinė,1261,Bendrojo ugdymo mokykla,1178,46,Pradinė mokykla,165,14
+3649,Valstybinė,212,Bendrojo ugdymo mokykla,1178,31,Progimnazija,114,-
+3649,Savivaldybės,2184,Bendrojo ugdymo mokykla,1178,1101,Progimnazija,114,111
+3649,Nevalstybinė,1261,Bendrojo ugdymo mokykla,1178,46,Progimnazija,114,3
+3649,Valstybinė,212,Ikimokyklinio ugdymo mokykla,742,3,Ikimokyklinio ugdymo mokykla,742,3
+3649,Savivaldybės,2184,Ikimokyklinio ugdymo mokykla,742,603,Ikimokyklinio ugdymo mokykla,742,603
+3649,Nevalstybinė,1261,Ikimokyklinio ugdymo mokykla,742,136,Ikimokyklinio ugdymo mokykla,742,136
+3649,Valstybinė,212,Kitas švietimo teikėjas,1025,41,Kitas švietimo teikėjas,1025,41
+3649,Savivaldybės,2184,Kitas švietimo teikėjas,1025,160,Kitas švietimo teikėjas,1025,160
+3649,Nevalstybinė,1261,Kitas švietimo teikėjas,1025,828,Kitas švietimo teikėjas,1025,828
+3649,Valstybinė,212,Kompetencijų vertinimo institucija,10,4,Kompetencijų vertinimo institucija,10,4
+3649,Savivaldybės,2184,Kompetencijų vertinimo institucija,10,-,Kompetencijų vertinimo institucija,10,-
+3649,Nevalstybinė,1261,Kompetencijų vertinimo institucija,10,6,Kompetencijų vertinimo institucija,10,6
+3649,Valstybinė,212,Mokslinių tyrimų institutas,22,13,Mokslinių tyrimų institutas,22,13
+3649,Savivaldybės,2184,Mokslinių tyrimų institutas,22,-,Mokslinių tyrimų institutas,22,-
+3649,Nevalstybinė,1261,Mokslinių tyrimų institutas,22,9,Mokslinių tyrimų institutas,22,9
+3649,Valstybinė,212,Neformaliojo suaugusiųjų švietimo mokykla,89,3,Neformaliojo suaugusiųjų švietimo mokykla,89,3
+3649,Savivaldybės,2184,Neformaliojo suaugusiųjų švietimo mokykla,89,5,Neformaliojo suaugusiųjų švietimo mokykla,89,5
+3649,Nevalstybinė,1261,Neformaliojo suaugusiųjų švietimo mokykla,89,81,Neformaliojo suaugusiųjų švietimo mokykla,89,81
+3649,Valstybinė,212,Neformaliojo vaikų švietimo mokykla ir formalųjį švietimą papildančio ugdymo mokykla,367,1,Neformaliojo vaikų švietimo mokykla ir formalųjį švietimą papildančio ugdymo mokykla,367,1
+3649,Savivaldybės,2184,Neformaliojo vaikų švietimo mokykla ir formalųjį švietimą papildančio ugdymo mokykla,367,248,Neformaliojo vaikų švietimo mokykla ir formalųjį švietimą papildančio ugdymo mokykla,367,248
+3649,Nevalstybinė,1261,Neformaliojo vaikų švietimo mokykla ir formalųjį švietimą papildančio ugdymo mokykla,367,122,Neformaliojo vaikų švietimo mokykla ir formalųjį švietimą papildančio ugdymo mokykla,367,122
+3649,Valstybinė,212,Profesinio mokymo įstaiga,90,78,Profesinio mokymo įstaiga,90,78
+3649,Savivaldybės,2184,Profesinio mokymo įstaiga,90,-,Profesinio mokymo įstaiga,90,-
+3649,Nevalstybinė,1261,Profesinio mokymo įstaiga,90,12,Profesinio mokymo įstaiga,90,12
+3649,Valstybinė,212,Švietimo pagalbos įstaiga,81,11,Mokytojų švietimo centras,23,-
+3649,Savivaldybės,2184,Švietimo pagalbos įstaiga,81,67,Mokytojų švietimo centras,23,20
+3649,Nevalstybinė,1261,Švietimo pagalbos įstaiga,81,3,Mokytojų švietimo centras,23,3
+3649,Valstybinė,212,Švietimo pagalbos įstaiga,81,11,Pedagoginė psichologinė tarnyba,28,-
+3649,Savivaldybės,2184,Švietimo pagalbos įstaiga,81,67,Pedagoginė psichologinė tarnyba,28,28
+3649,Nevalstybinė,1261,Švietimo pagalbos įstaiga,81,3,Pedagoginė psichologinė tarnyba,28,-
+3649,Valstybinė,212,Švietimo pagalbos įstaiga,81,11,Profesinio orientavimo centras,-,-
+3649,Savivaldybės,2184,Švietimo pagalbos įstaiga,81,67,Profesinio orientavimo centras,-,-
+3649,Nevalstybinė,1261,Švietimo pagalbos įstaiga,81,3,Profesinio orientavimo centras,-,-
+3649,Valstybinė,212,Švietimo pagalbos įstaiga,81,11,Švietimo pagalbos tarnyba,30,11
